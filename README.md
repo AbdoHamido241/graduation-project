@@ -1,3 +1,3 @@
 **Express API**
 this is my app
-this is new featuree
+this is new feature
